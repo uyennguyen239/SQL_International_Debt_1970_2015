@@ -10,7 +10,7 @@ The data used in this project is collected from The World Bank and provides info
 Contents
 1. 'Project_Internation Debt.sql': This file contains SQL queries that retrieve and analyze the international debt data. The queries cover a range of topics, including total debt amount, highest debt by country, distinct debt indicators, average debt across indicators, and more.
 
-2. 'report.pdf': This PDF file contains a comprehensive report presenting the results and analysis of the SQL queries. The report includes visualizations, insights, and key findings regarding international debt.
+2. 'Analyzing International Debt_ Insights from The World Bank Dataset 1970-2015 – Site Title.pdf': This PDF file contains a comprehensive report presenting the results and analysis of the SQL queries. The report includes visualizations, insights, and key findings regarding international debt.
 
 Usage
 To explore the analyses and results, simply run the SQL queries in your preferred SQL database management tool or environment. Each query is documented and labeled for easy reference and understanding.
